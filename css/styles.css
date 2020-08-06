@@ -1,3 +1,12 @@
+.navbar{ display:block; text-align: right; }
+{ float: none; }
+
 h1 {
-  color: red;
+  color: gray;
+}
+
+.sidebar {
+  float: right;
+  width: 20%;
+  background-color: gray;
 }
